@@ -54,7 +54,7 @@ seed_everything(42)
 # ------------------------------------------------------------------------------
 # CONFIGURATION
 # ------------------------------------------------------------------------------
-DATA_PATH = r"C:\palakdatathon\25ws-42.17 (1)\25ws-42.17\dataset_csv\nhanes_filtered.csv"
+DATA_PATH = r"C:\Users\palak\Documents\datathon\25ws-42.17\dataset_csv\nhanes_filtered.csv"
 OUTPUT_DIR = "diabetes_final_v3"
 PROCESSED_DIR = os.path.join(OUTPUT_DIR, "processed_data") 
 TARGET_COL = "DIQ010"
